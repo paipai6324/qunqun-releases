@@ -4,9 +4,11 @@
 
 ## 当前版本
 
-- 版本：`1.0.2`
-- versionCode：`5`
-- 安装包：[DisQun-1.0.2-debug.apk](./DisQun-1.0.2-debug.apk)
+- 版本：`6324.1`
+- versionCode：`7`
+- 安装包：[DisQun-6324.1-debug.apk](./DisQun-6324.1-debug.apk)
+
+仓库保留一个历史版本：[`DisQun-1.0.3-debug.apk`](./DisQun-1.0.3-debug.apk)。
 
 安装包也可以通过 GitHub 的仓库文件页下载。
 

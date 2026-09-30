@@ -1,21 +1,22 @@
 {
-  "versionCode": 6,
-  "versionName": "1.0.3",
+  "versionCode": 7,
+  "versionName": "6324.1",
   "minSupportedVersionCode": 4,
-  "downloadUrl": "https://raw.githubusercontent.com/paipai6324/qunqun-releases/main/DisQun-1.0.3-debug.apk",
-  "sha256": "64A39D8E098A1A2BE724D82B513F96E8B5029BAC0E7E1F3E612C2C10F5050740",
+  "downloadUrl": "https://raw.githubusercontent.com/paipai6324/qunqun-releases/main/DisQun-6324.1-debug.apk",
+  "sha256": "FAA85B58F395511CE0275D2F6E6DE97386255C642FD2548FF69DC3B377BD145F",
   "publishedAt": "2026-09-30",
-  "title": "发现新版本 1.0.3",
+  "title": "发现新版本 6324.1",
   "notes": [
     "支持按 Discord 服务器成员显示可访问的频道",
     "支持帖子、评论、楼中楼和表情同步",
-    "支持图片、视频附件预览",
+    "支持图片、视频和 GIF 附件预览及 GIF 自动播放",
     "支持实时增量更新和通知",
     "优化查看原图切换和频道下一页预取",
     "启动时探测 Discord Gateway，不可用时不提供服务器链接",
     "帖子详情使用独立线程加载，减少大量回复卡顿",
     "大量评论和热门评论分段加载，进入帖子优先显示首批内容",
-    "回复和发帖表情浮层支持点击空白处收起"
+    "回复和发帖表情浮层支持点击空白处收起",
+    "优化定位到底部和定位到指定评论的分段加载"
   ],
   "forceUpdate": false
 }
