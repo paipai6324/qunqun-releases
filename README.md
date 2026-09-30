@@ -4,9 +4,9 @@
 
 ## 当前版本
 
-- 版本：`6324.1`
-- versionCode：`7`
-- 安装包：[DisQun-6324.1-debug.apk](./DisQun-6324.1-debug.apk)
+- 版本：`6324.2`
+- versionCode：`8`
+- 安装包：[DisQun-6324.2-debug.apk](./DisQun-6324.2-debug.apk)
 
 仓库保留一个历史版本：[`DisQun-1.0.3-debug.apk`](./DisQun-1.0.3-debug.apk)。
 
