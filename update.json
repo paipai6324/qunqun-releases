@@ -1,11 +1,11 @@
 {
-  "versionCode": 8,
-  "versionName": "6324.2",
+  "versionCode": 9,
+  "versionName": "6324.3",
   "minSupportedVersionCode": 4,
-  "downloadUrl": "https://raw.githubusercontent.com/paipai6324/qunqun-releases/main/DisQun-6324.2-debug.apk",
-  "sha256": "A08729BAFBDE6856D33A94297E8A304FAC952A07DF836D7AC3882ABFF53CEB23",
+  "downloadUrl": "https://raw.githubusercontent.com/paipai6324/qunqun-releases/main/DisQun-6324.3-debug.apk",
+  "sha256": "E8C1838E11695F1915BA407D6B015CDD092354032F099F4BE996524595958EE1",
   "publishedAt": "2026-09-30",
-  "title": "发现新版本 6324.2",
+  "title": "发现新版本 6324.3",
   "notes": [
     "按照服务器成员权限展示你可以访问的频道",
     "帖子、评论和楼中楼内容更新更及时，回复和表情变化可以快速看到",
