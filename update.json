@@ -1,0 +1,17 @@
+{
+  "versionCode": 4,
+  "versionName": "1.0.1",
+  "minSupportedVersionCode": 3,
+  "downloadUrl": "https://raw.githubusercontent.com/paipai6324/qunqun-releases/main/DisQun-1.0.1-debug.apk",
+  "sha256": "EE332C348C1946D5ED990D38C0D6760BE43F90CA9A266EA45420500540BB7A72",
+  "publishedAt": "2026-09-30",
+  "title": "发现新版本 1.0.1",
+  "notes": [
+    "支持按 Discord 服务器成员显示可访问的频道",
+    "支持帖子、评论、楼中楼和表情同步",
+    "支持图片、视频附件预览",
+    "支持实时增量更新和通知",
+    "优化查看原图切换和频道下一页预取"
+  ],
+  "forceUpdate": false
+}

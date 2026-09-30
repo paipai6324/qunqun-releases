@@ -4,8 +4,14 @@
 
 ## 当前版本
 
-- 版本：`1.0.0`
-- versionCode：`3`
-- 安装包：[QunQun-1.0.0.apk](./QunQun-1.0.0.apk)
+- 版本：`1.0.1`
+- versionCode：`4`
+- 安装包：[DisQun-1.0.1-debug.apk](./DisQun-1.0.1-debug.apk)
 
 安装包也可以通过 GitHub 的仓库文件页下载。
+
+## 客户端更新清单
+
+客户端启动时会读取仓库根目录的 [`update.json`](./update.json)。发布新版本时请递增
+`versionCode`，填写 `versionName`、`downloadUrl` 和 APK 的 SHA-256；当旧版本低于
+`minSupportedVersionCode` 时客户端会强制更新，其余版本会显示可取消的更新提示。
