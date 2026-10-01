@@ -1,15 +1,14 @@
 {
-  "versionCode": 10,
-  "versionName": "6324.4",
+  "versionCode": 11,
+  "versionName": "6324.5",
   "minSupportedVersionCode": 4,
-  "downloadUrl": "https://raw.githubusercontent.com/paipai6324/qunqun-releases/main/DisQun-6324.4-debug.apk",
-  "sha256": "018F063E16DE5C0FE2BED619C4A626B2A5D6A89D304E5A1D57F1BD19E91FAC1A",
-  "publishedAt": "2026-09-30",
-  "title": "发现新版本 6324.4",
+  "downloadUrl": "https://raw.githubusercontent.com/paipai6324/qunqun-releases/main/DisQun-6324.5-debug.apk",
+  "sha256": "E1C57A622BAAFE476025A074278C00E7D2F836C0E6892F2D2063BCC5CD0CA38C",
+  "publishedAt": "2026-10-01",
+  "title": "发现新版本 6324.5",
   "notes": [
-    "优化帖子、评论和楼中楼的视图逻辑",
-    "优化发送中内容与正式内容的视图衔接",
-    "优化评论预览和附件评论的视图展示"
+    "支持选择帖子和评论文字",
+    "支持复制帖子和评论链接"
   ],
   "forceUpdate": false
 }
