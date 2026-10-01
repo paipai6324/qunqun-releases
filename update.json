@@ -1,21 +1,15 @@
 {
-  "versionCode": 9,
-  "versionName": "6324.3",
+  "versionCode": 10,
+  "versionName": "6324.4",
   "minSupportedVersionCode": 4,
-  "downloadUrl": "https://raw.githubusercontent.com/paipai6324/qunqun-releases/main/DisQun-6324.3-debug.apk",
-  "sha256": "E8C1838E11695F1915BA407D6B015CDD092354032F099F4BE996524595958EE1",
+  "downloadUrl": "https://raw.githubusercontent.com/paipai6324/qunqun-releases/main/DisQun-6324.4-debug.apk",
+  "sha256": "018F063E16DE5C0FE2BED619C4A626B2A5D6A89D304E5A1D57F1BD19E91FAC1A",
   "publishedAt": "2026-09-30",
-  "title": "发现新版本 6324.3",
+  "title": "发现新版本 6324.4",
   "notes": [
-    "按照服务器成员权限展示你可以访问的频道",
-    "帖子、评论和楼中楼内容更新更及时，回复和表情变化可以快速看到",
-    "图片、视频和 GIF 都可以直接预览，GIF 会自动播放",
-    "多张图片和视频支持连续浏览，也可以查看原图并保存到本地",
-    "有新帖子、新回复和新通知时及时提醒，不错过重要消息",
-    "进入长帖子和热门评论更顺畅，内容会优先显示在前面",
-    "评论定位、回到底部和继续浏览回复更加稳定",
-    "发帖和回复时，表情选择面板点击空白处即可关闭",
-    "优化帖子、评论、附件、头像和消息数量的显示体验"
+    "优化帖子、评论和楼中楼的视图逻辑",
+    "优化发送中内容与正式内容的视图衔接",
+    "优化评论预览和附件评论的视图展示"
   ],
   "forceUpdate": false
 }
